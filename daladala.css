@@ -1,0 +1,24 @@
+body{
+  font-size: large;
+}
+
+a{
+  font-weight: bold;
+}
+
+#ride{
+  background-color: aliceblue;
+  margin-top: 30px;
+  padding: 50px 0 50px 0;
+  border-radius: 30px;
+  border: 7px rgb(74, 74, 74) ridge;
+}
+
+#loginForm{
+  background-color: aliceblue;
+  margin-top: 30px;
+  padding: 20px 0 20px 0;
+  border-radius: 30px;
+  border: 7px rgb(74, 74, 74) ridge;
+}
+
